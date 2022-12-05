@@ -1,0 +1,27 @@
+head{
+    text-align: center;
+    color: white;
+}
+
+body{
+    color: white;
+    background-color: black;
+}
+footer{
+    text-align: center;
+}
+
+p.title{
+    font-family: fantasy;
+    text-align: center;
+}
+
+div.intro{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div.banner{
+    text-align: center;
+}
+
