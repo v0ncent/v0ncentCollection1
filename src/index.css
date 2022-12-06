@@ -41,6 +41,13 @@ h1{
     font-family:Arial, Helvetica, sans-serif
 }
 
+h2{
+    padding: 10px;
+    font-size: auto;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+}
+
 div.one{
     display: flex;
     align-items: center;
@@ -48,7 +55,17 @@ div.one{
 
 img.oneImage{
     border: 5px solid white;
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
 }
 
 
+div.captain{
+    text-align: center;
+}
 
+img.captainImage{
+    border: 5px solid blue;
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
+}
