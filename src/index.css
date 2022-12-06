@@ -7,9 +7,16 @@ body{
     color: white;
     background-color: black;
 }
+
 footer{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+}
+
+span{
+    padding: 10px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 p.title{
@@ -20,9 +27,28 @@ p.title{
 div.intro{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    border: 5px white;
 }
 
 div.banner{
     text-align: center;
 }
+
+h1{
+    padding: 10px;
+    font-size: auto;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+div.one{
+    display: flex;
+    align-items: center;
+}
+
+img.oneImage{
+    border: 5px solid white;
+}
+
+
 
