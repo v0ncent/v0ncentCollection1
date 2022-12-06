@@ -8,17 +8,16 @@ body{
     background-color: black;
 }
 
-footer{
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-}
-
 span{
     padding: 10px;
     font-size: large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px 10px 30px 20px;
 }
 
+div.end{
+    text-align: center;
+}
 p.title{
     font-family: fantasy;
     text-align: center;
@@ -59,13 +58,25 @@ img.oneImage{
     margin: 0px 10px 30px 20px;
 }
 
-
 div.captain{
     text-align: center;
+    align-items: center;
 }
 
 img.captainImage{
     border: 5px solid blue;
     border-radius: 5px;
     margin: 0px 10px 30px 20px;
+}
+
+div.funwithhands{
+    vertical-align:middle;
+    align-items: center;
+}
+
+img.funwithhandsImage{
+    float: right;
+    border: 5px solid white;
+    border-radius: 5px;
+    margin: 50px 10px 30px 20px;
 }
