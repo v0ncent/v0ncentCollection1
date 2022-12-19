@@ -92,3 +92,39 @@ img.imgPeople{
     border-radius: 5px;
     margin: 0px 10px 30px 20px;
 }
+
+div.AnerianPort{
+    text-align: center;
+    align-items: center;
+}
+
+img.anerianPortImg{
+    border: 5px solid rgb(82, 129, 195);
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
+}
+
+div.selfPortraitOne{
+    vertical-align:middle;
+    align-items: center;
+    text-align: center;
+}
+
+img.selfPortraitOneImg{
+    transform:rotateX(90);
+    float: right;
+    border: 5px solid white;
+    border-radius: 5px;
+    margin: 50px 10px 30px 20px;
+}
+
+div.fredrich{
+    display: flex;
+    align-items: center;
+}
+
+img.imgFredrich{
+    border: 5px solid rgb(22, 20, 24);
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
+}
