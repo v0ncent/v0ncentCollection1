@@ -72,6 +72,7 @@ img.captainImage{
 div.funwithhands{
     vertical-align:middle;
     align-items: center;
+    text-align: center;
 }
 
 img.funwithhandsImage{
@@ -79,4 +80,15 @@ img.funwithhandsImage{
     border: 5px solid white;
     border-radius: 5px;
     margin: 50px 10px 30px 20px;
+}
+
+div.People{
+    display: flex;
+    align-items: center;
+}
+
+img.imgPeople{
+    border: 5px solid rgb(146, 37, 126);
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
 }
