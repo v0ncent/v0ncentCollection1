@@ -198,3 +198,62 @@ img.EwEmoImg{
     border-radius: 5px;
     margin: 0px 10px 30px 20px;
 }
+
+div.intersections{
+    text-align: center;
+    align-items: center;
+}
+
+img.intersectionsImg{
+    border: 5px solid rgb(47, 130, 254);
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
+}
+
+div.doors{
+    vertical-align:middle;
+    align-items: center;
+    text-align: center;
+}
+
+img.doorsImg{
+    float: right;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    margin: 50px 10px 30px 20px;
+}
+
+div.HowToExplode{
+    display: flex;
+    align-items: center;
+}
+
+img.HowToExplodeImg{
+    border: 5px solid rgb(0, 39, 27);
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
+}
+
+div.caligari{
+    text-align: center;
+    align-items: center;
+}
+
+img.caligariImg{
+    border: 5px solid rgb(250, 250, 250);
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
+}
+
+div.emmalynn{
+    vertical-align:middle;
+    align-items: center;
+    text-align: center;
+}
+
+img.emmalynnImg{
+    float: right;
+    border: 5px solid rgb(130, 6, 6);
+    border-radius: 5px;
+    margin: 50px 10px 30px 20px;
+}
