@@ -124,7 +124,77 @@ div.fredrich{
 }
 
 img.imgFredrich{
-    border: 5px solid rgb(22, 20, 24);
+    border: 5px solid rgb(56, 0, 42);
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
+}
+
+div.DepressionDrawing{
+    text-align: center;
+    align-items: center;
+}
+
+img.depressionDrawingImg{
+    border: 5px solid rgb(197, 134, 242);
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
+}
+
+div.Diealation{
+    vertical-align:middle;
+    align-items: center;
+    text-align: center;
+}
+
+img.DiealationImg{
+    float: right;
+    border: 5px solid rgb(212, 166, 0);
+    border-radius: 5px;
+    margin: 50px 10px 30px 20px;
+}
+
+div.anxietyofattraction{
+    display: flex;
+    align-items: center;
+}
+
+img.imgAnxietyAttraction{
+    border: 5px solid rgb(103, 17, 2);
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
+}
+
+div.MeAgain{
+    text-align: center;
+    align-items: center;
+}
+
+img.meImg{
+    border: 5px solid rgb(82, 81, 84);
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
+}
+
+div.FuckEyes{
+    vertical-align:middle;
+    align-items: center;
+    text-align: center;
+}
+
+img.fuckeyesImg{
+    float: right;
+    border: 5px solid rgb(212, 0, 0);
+    border-radius: 5px;
+    margin: 50px 10px 30px 20px;
+}
+
+div.EwEmo{
+    display: flex;
+    align-items: center;
+}
+
+img.EwEmoImg{
+    border: 5px solid rgb(135, 124, 122);
     border-radius: 5px;
     margin: 0px 10px 30px 20px;
 }
