@@ -257,3 +257,30 @@ img.emmalynnImg{
     border-radius: 5px;
     margin: 50px 10px 30px 20px;
 }
+
+div.Zeriss{
+    align-items: center;
+}
+
+img.zeriss1Img{
+    border: 5px solid rgb(45, 7, 149);
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
+}
+
+img.zeriss2Img{
+    border: 5px solid rgb(45, 7, 149);
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
+}
+
+div.anxiety{
+    text-align: center;
+    align-items: center;
+}
+
+img.anxietyImg{
+    border: 5px solid rgb(147, 1, 176);
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
+}
