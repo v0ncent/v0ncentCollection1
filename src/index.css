@@ -284,3 +284,62 @@ img.anxietyImg{
     border-radius: 5px;
     margin: 0px 10px 30px 20px;
 }
+
+div.opensuck{
+    vertical-align:middle;
+    align-items: center;
+    text-align: center;
+}
+
+img.suckImg{
+    float: right;
+    border: 5px solid rgb(183, 175, 13);
+    border-radius: 5px;
+    margin: 50px 10px 30px 20px;
+}
+
+div.regrow{
+    display: flex;
+    align-items: center;
+}
+
+img.regrowImg{
+    border: 5px solid rgb(44, 9, 149);
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
+}
+
+div.portx{
+    text-align: center;
+    align-items: center;
+}
+
+img.portxImg{
+    border: 5px solid rgb(147, 1, 176);
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
+}
+
+div.formabs{
+    vertical-align:middle;
+    align-items: center;
+    text-align: center;
+}
+
+img.formabsImg{
+    float: right;
+    border: 5px solid rgb(213, 104, 148);
+    border-radius: 5px;
+    margin: 50px 10px 30px 20px;
+}
+
+div.larkem{
+    display: flex;
+    align-items: center;
+}
+
+img.larkemImg{
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    margin: 0px 10px 30px 20px;
+}
