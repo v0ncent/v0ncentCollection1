@@ -343,3 +343,18 @@ img.larkemImg{
     border-radius: 5px;
     margin: 0px 10px 30px 20px;
 }
+
+p.crysectiondesc{
+    text-align: center;
+    font-size: larger;
+}
+
+div.crybabytitle{
+    display: flex;
+    align-items: center;
+}
+
+img.crybabytitle{
+    display: flex;
+    align-items: center;
+}
